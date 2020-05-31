@@ -1,2 +1,0 @@
-# shoppingcartTotalWithTax
-Created with CodeSandbox
